@@ -1,0 +1,2 @@
+# SignalRankingForecast
+Professional forecasting platform
